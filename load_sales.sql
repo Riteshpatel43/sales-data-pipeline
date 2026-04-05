@@ -1,1 +1,1 @@
-SELECT id, name FROM sales;
+SELECT id, name, amount FROM sales;
