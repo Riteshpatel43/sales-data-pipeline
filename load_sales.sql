@@ -1,1 +1,1 @@
-"SELECT * FROM sales" 
+SELECT id, name FROM sales;
